@@ -1,0 +1,137 @@
+Here are some notes on the basics of Python syntax as well as problems to solve
+
+Python Indentation Rules
+
+Python uses four spaces as default indentation spaces. However, the number of spaces can be anything; it is up to the user. But a minimum of one space is needed to indent a statement. The first line of Python code cannot have an indentation.
+
+Commenting in Python 
+
+Comments in Python are identified with a hash symbol, #, and extend to the end of the line.
+
+Multi-line comments are created by enclosing the text within triple quotes, either single quotes ''' or double quotes ".
+
+Problems 
+
+Variables and Data Types:
+
+Create a variable x and set it to 5.
+Create a variable name and set it to your name as a string.
+Create a variable age and set it to your age as an integer.
+Create a variable height and set it to your height as a float.
+Calculate the sum of two numbers, a and b.
+Calculate the product of two numbers, a and b.
+Create a string variable message and concatenate it with another string.
+Create a list of your favorite colors.
+Access and print the third item in the list.
+Create a tuple with three elements.
+Create a dictionary with keys "name" and "age" and set their values.
+Print the value associated with the "age" key in the dictionary.
+Create a boolean variable and print its value.
+Check if a number is even or odd.
+Check if a string contains the word "Python".
+Convert a string to uppercase.
+Convert a string to lowercase.
+Swap the values of two variables without using a temporary variable.
+Calculate the square of a number using the ** operator.
+Use the input() function to get user input and print it.
+
+Conditional Statements
+
+Write an if statement to check if a number is positive or negative.
+Write an if-else statement to check if a number is even or odd.
+Write an if-elif-else statement to determine the grade based on a score.
+Check if a number is divisible by both 2 and 3.
+Check if a number is greater than 10 and less than 20.
+Write a program to compare two numbers and print the larger one.
+Determine if a year is a leap year or not.
+Check if a string is empty or not.
+Check if a string starts with a specific prefix.
+Check if a string ends with a specific suffix.
+Check if a character is a vowel or a consonant.
+Check if a number is in a given range.
+Calculate the absolute value of a number.
+Determine if a number is prime.
+Check if a list is empty or not.
+Check if an element exists in a list.
+Check if two lists have any common elements.
+Check if a dictionary contains a specific key.
+Check if a value exists in a dictionary.
+Determine the largest element in a list.
+
+Loops
+
+Print numbers from 1 to 10 using a for loop.
+Print even numbers from 1 to 20 using a for loop.
+Calculate the sum of numbers from 1 to 100 using a for loop.
+Print a multiplication table for a given number using a for loop.
+Print the elements of a list using a for loop.
+Find and print the average of a list of numbers using a for loop.
+Use a while loop to print numbers from 1 to 10.
+Use a while loop to find the factorial of a number.
+Use a while loop to reverse a string.
+Use a for loop to iterate over the characters of a string and count the number of vowels.
+
+Functions
+
+Write a function to calculate the square of a number.
+Write a function to calculate the factorial of a number.
+Write a function to check if a number is prime.
+Write a function to find the maximum of three numbers.
+Write a function to calculate the area of a circle given its radius.
+Write a function to check if a string is a palindrome.
+Write a function to reverse a list.
+Write a function to calculate the sum of all elements in a list.
+Write a function to count the number of words in a string.
+Write a function to find the greatest common divisor (GCD) of two numbers.
+
+
+
+Lists and List Comprehensions
+
+Create a new list by multiplying each element of an existing list by 2.
+Create a list of squares from 1 to 10 using list comprehension.
+Filter out even numbers from a list using list comprehension.
+Create a list of the first 10 multiples of 3 using list comprehension.
+Find the common elements between two lists.
+Remove duplicates from a list.
+Sort a list of numbers in ascending order.
+Find the index of a specific element in a list.
+Count the occurrences of an element in a list.
+Concatenate two lists.
+
+Strings
+Count the number of characters in a string.
+Split a sentence into words.
+Replace a specific word in a string.
+Check if a string is a valid email address.
+Remove whitespace from the beginning and end of a string.
+Capitalise the first letter of each word in a string.
+Check if a string contains only digits.
+Check if a string is a valid URL.
+Count the number of vowels in a string.
+Reverse a string using slicing.
+
+File Handling
+Create a new text file and write some text to it.
+Read the contents of a text file and print them.
+Append new text to an existing text file.
+Read a CSV file and print its contents.
+Write a list of numbers to a binary file.
+Read a list of numbers from a binary file.
+Copy the contents of one text file to another.
+Create a JSON file and write a dictionary to it.
+Read a JSON file and print its contents.
+Handle exceptions when reading a non-existent file.
+
+Dictionaries
+Iterate over the keys of a dictionary and print them.
+Iterate over the values of a dictionary and print them.
+Iterate over key-value pairs in a dictionary and print them.
+Merge two dictionaries into one.
+Check if a key exists in a dictionary.
+Remove a key from a dictionary.
+Create a dictionary from two lists.
+Find the key with the maximum value in a dictionary.
+Count the occurrences of each word in a string and store them in a dictionary.
+Sort a dictionary by its values.
+
