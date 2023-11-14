@@ -66,4 +66,6 @@ persondict = {
 
 # Same syntax as JS objects
 
-print(persondict)
+# Print the value associated with the "age" key in the dictionary.
+
+print(persondict["age"])
