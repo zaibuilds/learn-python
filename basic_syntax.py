@@ -69,3 +69,9 @@ persondict = {
 # Print the value associated with the "age" key in the dictionary.
 
 print(persondict["age"])
+
+# Create a boolean variable and print its value.
+
+istrue = True;
+
+print(istrue)
