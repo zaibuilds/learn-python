@@ -59,3 +59,11 @@ print(mytuple)
 
 # Create a dictionary with keys "name" and "age" and set their values.
 
+persondict = {
+    "name": "Zai",
+    "age": 23
+}
+
+# Same syntax as JS objects
+
+print(persondict)
